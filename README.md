@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-hernandes-19a5601ab/)
 
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=P4tr0ck&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P4tr0ck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P4tr0ck&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias usadas diariamente
 <div style="display: inline_block"><br/>
